@@ -58,8 +58,8 @@ The project is split into three main files for clean, maintainable code:
 **Note: Please update these screenshots with the new "glassmorphism" design!**
 
 <div>
-  <img src="./images/portfolio1.PNG" alt="Portfolio 1" width="45%" style="margin-right: 10px;">
-  <img src="./images/portfolio2.PNG" alt="Portfolio 2" width="45%">
+  <img src="./images/Port1.PNG" alt="Portfolio" width="45%" style="margin-right: 10px;">
+
 </div>
 
 ## Usage
