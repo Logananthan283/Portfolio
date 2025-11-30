@@ -8,7 +8,7 @@
 
 Showcasing the projects, skills, and experience of Logananthan Dhanasekar in a modern, professional, and interactive web portfolio.
 
-**[View the Live Demo](https://logananthan283.github.io/Logananthan-Portfolio)**
+**[View the Live Demo](https://logananthan283.github.io/Portfolio/)**
 
 ## About
 
